@@ -33,6 +33,7 @@ All you need is a browser. Just click and play these games without any distracti
 - [OpenTTD](https://pelya.github.io/openttd-touch-webapp/openttd.html) - `Tycoon` `Transportation` - Transporting passengers, minerals and goods via road, rail, water and air.
 - [Pixel Dungeon](https://gnojus.github.io/pixel-dungeon-gdx/) - `Roguelike` `Turn-Based` `Dungeon crawler` `RPG` - Explore dungeon, collect items, fight monsters.
 - [PokéBonk](https://pokebonk.info/) - `Roguelike` `Survivor` `Fan game` - Fan Pokémon survivor playable in-browser with wiki tools.
+- [Poopleunlimited](https://poopleunlimited.app/) - `Puzzle` `Word` `Casual` - Free unlimited word-ladder practice in the browser with no daily lock.
 - [Rarest Answer](https://rarestanswer.com/?ref=awesome-browser-games) - `Trivia` `Daily` - Name the correct answer nobody else gives; rarer answers score more.
 - [Saltwind](https://goblinarcade.com/play/saltwind) - `Trading` `Strategy` `Simulation` - Sail between ports: buy low, sell high and refit your ship.
 - [Scalar](https://www.scalargame.com/scalar) - `Puzzle` `Geography` `Daily` - Deduce the mystery country from distance, area and population clues.
@@ -45,6 +46,7 @@ All you need is a browser. Just click and play these games without any distracti
 ## Multiplayer
 
 - [Curvytron 2](https://curvytron2.com/) - `Action` `Real-Time` - A tron/snake game in 3D: steer a trail and be the last one alive.
+- [Escape Room Night](https://escaperoomnight.com/) - `Puzzle` `Co-op` `Party` - Story escape rooms solved together in a shared room-code lobby.
 - [Feudal Wars](http://feudalwars.net/) - `Strategy` `Real-Time` `Medieval` - Inspired by classic real-time strategy games.
 - [Kings Cup Online](https://www.onlinekingscup.com/) - `Card` `Party` `Local` - Classic game on shared device, 5 rule sets incl. an alcohol-free mode.
 - [Lagario 3](https://lagario.thomasar.dev) - `Action` `Real-Time` `Space` `P2P` - Slingshot your planet past stars with gravity and ram rivals.
